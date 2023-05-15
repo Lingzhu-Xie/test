@@ -1,3 +1,4 @@
 *.bw filter=lfs diff=lfs merge=lfs -text
 SW480_4C_1_WIN21.bw filter=lfs diff=lfs merge=lfs -text
 HCT116_PBX1_20230426.bw filter=lfs diff=lfs merge=lfs -text
+PBX1.hg38. filter=lfs diff=lfs merge=lfs -text
