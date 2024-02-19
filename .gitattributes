@@ -5,3 +5,5 @@ PBX1.hg38. filter=lfs diff=lfs merge=lfs -text
 PBX1_rep1_SeqDepthNorm.bw filter=lfs diff=lfs merge=lfs -text
 SW480-sg11-OE0-FOXQ1-5_SeqDepthNorm.bw filter=lfs diff=lfs merge=lfs -text
 *.bed filter=lfs diff=lfs merge=lfs -text
+FLAG-FOXQ1_rep1.normalized.bw filter=lfs diff=lfs merge=lfs -text
+FLAG-FOXQ1_rep2.normalized.bw filter=lfs diff=lfs merge=lfs -text
